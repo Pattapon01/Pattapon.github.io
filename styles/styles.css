@@ -1,0 +1,52 @@
+html {
+    background-color: #4b4848;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+body {
+    width: 1080px;
+    margin: 0 auto;
+    background-color: rgb(242, 202, 202);
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+}
+
+figure {
+    display: block;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    font-size: 64px;
+    padding: 50px 0;
+    color: red;
+    text-shadow: 3px 3px 1px black;
+}
+
+p {
+    font-size: 32px;
+    text-align: left;
+}
+
+ul {
+    font-size: 24px;
+    font-style: normal;
+}
+
+img {
+    display: block;
+    margin-top: 4px;
+    margin-bottom: 4px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+  }
+
+  iframe.figma {
+    display: block;
+    width: 100%;
+    margin-right:auto;
+    margin-left: auto;
+    border: 1px solid black;
+}
